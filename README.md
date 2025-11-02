@@ -11,7 +11,7 @@ Ampliar un sistema de gestión de contenidos audiovisuales en Java aplicando POO
 
 ## ⚙️ Instrucciones
 1. Clonar el repositorio:  
-   `git clone https://github.com/tu_usuario/tu_repositorio.git`
+   `git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/wandrestv/ProjectPOO)`
 2. Abrir en Eclipse.
 3. Ejecutar la clase `Main`.
 
