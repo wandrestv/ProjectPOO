@@ -17,5 +17,4 @@ Ampliar un sistema de gestión de contenidos audiovisuales en Java aplicando POO
 
 ## ✨ Mejoras
 - Diagrama UML actualizado.
-- Pruebas básicas en `Main.java`.
 - Código limpio y documentado.
